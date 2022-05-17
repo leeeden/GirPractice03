@@ -7,9 +7,9 @@
 \pard\pardeftab720\partightenfactor0
 
 \f0\fs26 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \
-# Created by https://www.toptal.com/developers/gitignore/api/java,macos,eclipse,git\
-# Edit at https://www.toptal.com/developers/gitignore?templates=java,macos,eclipse,git\
+\
+# Created by https://www.toptal.com/developers/gitignore/api/java,eclipse,git,windows,macos\
+# Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse,git,windows,macos\
 \
 ### Eclipse ###\
 .metadata\
@@ -155,5 +155,31 @@ Temporary Items\
 # iCloud generated files\
 *.icloud\
 \
-# End of https://www.toptal.com/developers/gitignore/api/java,macos,eclipse,git\
+### Windows ###\
+# Windows thumbnail cache files\
+Thumbs.db\
+Thumbs.db:encryptable\
+ehthumbs.db\
+ehthumbs_vista.db\
+\
+# Dump file\
+*.stackdump\
+\
+# Folder config file\
+[Dd]esktop.ini\
+\
+# Recycle Bin used on file shares\
+$RECYCLE.BIN/\
+\
+# Windows Installer files\
+*.cab\
+*.msi\
+*.msix\
+*.msm\
+*.msp\
+\
+# Windows shortcuts\
+*.lnk\
+\
+# End of https://www.toptal.com/developers/gitignore/api/java,eclipse,git,windows,macos\
 }
